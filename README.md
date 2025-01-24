@@ -3,7 +3,7 @@
 This project show how to generate a short video without any editing or recording.
 Everything is completed by pure coding and model generation. 
 
-Demo
+Demo (Turn on the volume icon - by default its mute)
 
 https://github.com/user-attachments/assets/53341719-3f03-4020-b287-636eb04b21df
 
