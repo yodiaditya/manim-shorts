@@ -3,9 +3,11 @@
 This project show how to generate a short video without any editing or recording.
 Everything is completed by pure coding and model generation. 
 
-Result
+Demo
 
-https://www.youtube.com/shorts/rv0BuhHG9TQ
+https://github.com/user-attachments/assets/53341719-3f03-4020-b287-636eb04b21df
+
+Short Youtube: https://www.youtube.com/shorts/rv0BuhHG9TQ
 
 Free free to give star ⭐ for this project.
 
